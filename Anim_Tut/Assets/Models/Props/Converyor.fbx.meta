@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 44709db61da67bd4b9be923609a75a2a
+timeCreated: 1509119509
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bin
+    100002: C_Belt
+    100004: //RootNode
+    100006: Conveyor
+    100008: HatchDoor
+    100010: Hopper
+    100012: Upper
+    400000: Bin
+    400002: C_Belt
+    400004: //RootNode
+    400006: Conveyor
+    400008: HatchDoor
+    400010: Hopper
+    400012: Upper
+    2300000: Bin
+    2300002: C_Belt
+    2300004: Conveyor
+    2300006: HatchDoor
+    2300008: Hopper
+    2300010: Upper
+    3300000: Bin
+    3300002: C_Belt
+    3300004: Conveyor
+    3300006: HatchDoor
+    3300008: Hopper
+    3300010: Upper
+    4300000: Conveyor
+    4300002: C_Belt
+    4300004: Bin
+    4300006: Upper
+    4300008: HatchDoor
+    4300010: Hopper
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Belt
+    second: {fileID: 2100000, guid: 62b2327dbf9ab9a4fa9642c9f8e0a387, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bin1
+    second: {fileID: 2100000, guid: 41053a63e736d9f4384f6717bdda2a3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Conveyor_Collection_V2_mb_conveyor_belt_V2_MetalCopperObject
+    second: {fileID: 2100000, guid: ad08b59691f15df40b05d3cebde52c68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Conveyor_Collection_V2_mb_conveyor_belt_V2_MetalCopperObject2
+    second: {fileID: 2100000, guid: b7615bffe1739d044a1ccff62200e353, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Conveyor_Collection_V2_mb_conveyor_belt_V2_Red
+    second: {fileID: 2100000, guid: 7215fb54d15c51b46ab07dca2587b68e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Conveyor_Collection_V2_mb_conveyor_belt_V2_WhitePaint
+    second: {fileID: 2100000, guid: e41197180f23a6f4db747eb4b94132ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Conveyor_Collection_V2_mb_conveyor_belt_V2_Wire
+    second: {fileID: 2100000, guid: 41d1ab6369bbf7749a6e140cb80bbb11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hatch
+    second: {fileID: 2100000, guid: 8e9cda3ba5ca04f4ca99b860eaf40540, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HatchBin1
+    second: {fileID: 2100000, guid: 32a28a5fe8deb1e4cb26a5451e449e8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert4
+    second: {fileID: 2100000, guid: 941f6d2b8ad79d645983ad1e461dd7fa, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
